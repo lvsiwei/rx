@@ -1,0 +1,33 @@
+PODS:
+  - RxAtomic (4.4.2)
+  - RxCocoa (4.4.2):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.4.2):
+    - RxAtomic (>= 4.4.2, ~> 4.4)
+  - SnapKit (4.2.0)
+  - Toast-Swift (4.0.1)
+
+DEPENDENCIES:
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SnapKit
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  RxAtomic: d00e97c10db88c6f08540e0bf2752fc5a2404167
+  RxCocoa: 477990dc3b4c3ff55fb0ac77e1cc06244e0aaec8
+  RxSwift: 74c29b693c8e42b0f64400e8b06564575742d649
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+
+PODFILE CHECKSUM: 098282aa07e5be27ef58d5058c8f548e3159793b
+
+COCOAPODS: 1.5.3
